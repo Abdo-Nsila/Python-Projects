@@ -1,0 +1,14 @@
+{
+  "Nom Entreprise": "aazaz",
+  "Service": [
+    {
+      "Nom Service": "azeze",
+      "Chef": [
+        {
+          "Nom Chef": "erte",
+          "Employee": [{ "Nom Employee": "e1" }, { "Nom Employee": "e2" }]
+        }
+      ]
+    }
+  ]
+}

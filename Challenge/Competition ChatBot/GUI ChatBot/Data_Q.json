@@ -1,0 +1,117 @@
+{
+  "Quels sont les sujets qui vous passionnent?": [
+    false,
+    {
+      "Arts": [0, 0, 0, 1],
+      "Technologie": [1, 0, 0, 0],
+      "Business": [0, 0, 1, 0],
+      "Ingenierie": [0, 1, 0, 0],
+      "Science": [0, 0, 0, 0]
+    }
+  ],
+  "Quels sont les types d'activités que vous préférez? (plusieurs réponses possibles)": [
+    true,
+    {
+      "Travailler en équipe": [1, 1, 1, 1],
+      "Travailler seul": [1, 0, 0, 1],
+      "Résoudre des problèmes": [1, 0, 0, 0],
+      "Apprendre des nouvelles choses": [1, 0, 1, 1],
+      "Analyse": [1, 1, 0, 0],
+      "Création": [0, 0, 0, 1],
+      "Prise de décision": [0, 0, 1, 0],
+      "Voyage": [0, 1, 0, 0],
+      "Lecture": [1, 1, 1, 1]
+    }
+  ],
+  "Quel est votre rêve de carrière?": [
+    false,
+    {
+      "Entrepreneur": [1, 0, 0, 0],
+      "Ingénieur": [1, 1, 1, 0],
+      "Infographiste": [0, 0, 0, 1],
+      "Enseignant": [0, 1, 0, 0],
+      "Marqueteur": [0, 0, 1, 0],
+      "Freelancer": [1, 0, 1, 1]
+    }
+  ],
+  "Qu'est-ce qui vous motiverait dans un emploi? (plusieurs réponses possibles)": [
+    true,
+    {
+      "Des opportunités de développement personnel et professionnel": [
+        0, 0, 1, 1
+      ],
+      "La possibilité de prendre des décisions et d'avoir de l'autonomie": [
+        0, 0, 0, 1
+      ],
+      "La possibilité de travailler sur des projets innovants": [1, 0, 0, 0],
+      "La possibilité de travailler avec des technologies de pointe": [
+        1, 0, 0, 0
+      ],
+      "La possibilité de travailler dans un environnement international": [
+        1, 0, 0, 1
+      ],
+      "La possibilité de voyager": [0, 1, 0, 0],
+      "L'équilibre vie professionnelle-vie privée": [1, 0, 1, 1]
+    }
+  ],
+  "Quel type d'environnement de travail préférez-vous?": [
+    false,
+    {
+      "Bureau": [1, 0, 1, 0],
+      "Open-space": [0, 0, 0, 1],
+      "Travail à distance": [1, 0, 1, 1],
+      "Travail sur terrain": [0, 1, 0, 0]
+    }
+  ],
+  "Quelles sont vos principales aptitudes? (plusieurs réponses possibles)": [
+    true,
+    {
+      "Esprit de logique": [1, 0, 0, 1],
+      "Esprit déquipe": [1, 1, 0, 0],
+      "Esprit de management": [0, 1, 0, 0],
+      "Communication": [1, 0, 1, 1],
+      "Curiosité, lenvie de sauto-former": [1, 0, 0, 1],
+      "Esprit danalyse": [0, 1, 0, 0],
+      "Esprit de marketing": [0, 0, 1, 0],
+      "Esprit de création": [0, 0, 0, 1]
+    }
+  ],
+  "Quels sont les types de problèmes que vous aimez résoudre? (plusieurs réponses possibles)": [
+    true,
+    {
+      "Problèmes techniques": [1, 1, 0, 0],
+      "Problèmes de recherche": [1, 0, 0, 0],
+      "Problèmes commerciaux": [0, 0, 1, 0],
+      "Problèmes de gestion": [0, 1, 1, 0],
+      "Problèmes créatifs": [0, 0, 0, 1]
+    }
+  ],
+  "Est-ce que vous utilisez déjà des logiciels pour la manipulation d'images ou de vidéos ?": [
+    false,
+    {
+      "Oui": [0, 0, 0, 1],
+      "Non": [0, 0, 0, 0]
+    }
+  ],
+  "Avez-vous déjà des notions sur la programmation ?": [
+    false,
+    {
+      "Oui": [1, 0, 0, 0],
+      "Non": [0, 0, 0, 0]
+    }
+  ],
+  "Est-ce que vous connaissez tous les réseaux sociaux et les utilisez-vous ?": [
+    false,
+    {
+      "Oui": [0, 0, 1, 0],
+      "Non": [0, 0, 0, 0]
+    }
+  ],
+  "Est-ce que vous avez une idée sur l'infrastructure numérique ?": [
+    false,
+    {
+      "Oui": [0, 1, 0, 0],
+      "Non": [0, 0, 0, 0]
+    }
+  ]
+}

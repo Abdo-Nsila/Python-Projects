@@ -1,0 +1,9 @@
+
+
+Name:Yasser at 19-6-2023
+Food:40DH
+Drink:15DH
+Entertainment:20DH
+Transport:8DH
+Other:10DH
+---------------------------------------------------------------------

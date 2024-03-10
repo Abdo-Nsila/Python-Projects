@@ -1,0 +1,29 @@
+
+Name:zobair at 19-6-2023
+Food:988DH
+Drink:5954DH
+Entertainment:959DH
+Transport:8478DH
+Other:84DH
+---------------------------------------------------------------------
+Name:zobair at 19-6-2023
+Food:84DH
+Drink:45DH
+Entertainment:54DH
+Transport:545DH
+Other:54DH
+---------------------------------------------------------------------
+Name:يونس at 4-11-2023
+Food:10DH
+Drink:20DH
+Entertainment:30DH
+Transport:55DH
+Other:100DH
+---------------------------------------------------------------------
+Name:Abdellah at 4-11-2023
+Food:15DH
+Drink:30DH
+Entertainment:50DH
+Transport:40DH
+Other:200DH
+---------------------------------------------------------------------

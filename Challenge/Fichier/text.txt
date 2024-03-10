@@ -1,0 +1,5 @@
+Nom;Prenom;Age;
+Dubois;Marie;29;
+Duval ;Julien;47;
+Jacquet;Bernard;51;
+Martin;Lucie;14;
